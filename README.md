@@ -10,7 +10,7 @@ and maintained effective team communication throughout the project.
 
 Files Included
 
-CS-250_MODULE_SEVEN_FINAL_PROJECT.docx (Sprint Review and Retrospective)
+CS-250 Final Project-SNHU Travel.docx (Sprint Review and Retrospective)
 
 README.md
 
